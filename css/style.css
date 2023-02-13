@@ -2358,7 +2358,6 @@ input[type=number] {
 	.foliox_tm_about .experience{display: none;}
 	.foliox_tm_about .small_image .in{display: none;}
 	.foliox_tm_about .big_image{float: right;}
-	.foliox_tm_about{margin-bottom: 165px;}
 	.foliox_tm_counter .counter_list ul li{width: 33.3333%;}
 	.foliox_tm_skills .list{flex-direction: column;}
 	.foliox_tm_skills .left{width: 100%;padding-left: 0px;margin-bottom: 7px;}
